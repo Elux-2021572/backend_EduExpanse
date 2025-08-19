@@ -1,2 +1,2 @@
-# backend_EduExpanse
-Node.js backend API powering a learning blog platform with content management capabilities, user authentication, and database integration for storing and retrieving educational resources.
+# PMA_blogDeAprendizaje
+. Este blog servirá como un registro organizado de los trabajos, accesible para cualquier visitante
