@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "682d16a790dda967b259e98b"
+  },
+  "title": "Actividades Académicas Semanales",
+  "description": "Entregables para la semana actual:\n• Infografía sobre conceptos principales\n• Presentación de avances del proyecto",
+  "image": "arroz-1747785382998.png",
+  "course": "Tecnología Educativa",
+  "status": true,
+  "comments": [],
+  "date": {
+    "$date": "2025-05-20T06:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-20T23:56:23.029Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T23:56:23.029Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682d16eea423df119c2f39f2"
+  },
+  "title": "Proyecto Web: Entregables Semanales",
+  "description": "Para esta semana se requiere completar y entregar el desarrollo de ambos componentes del blog educativo:\n• Desarrollo del backend (API REST)\n• Implementación del frontend (Interfaz de usuario)",
+  "image": "arroz-1747785454619.png",
+  "course": "Taller de Desarrollo Web",
+  "status": true,
+  "comments": [],
+  "date": {
+    "$date": "2025-05-20T06:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-20T23:57:34.671Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T23:57:34.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682d171ca423df119c2f39f4"
+  },
+  "title": "Plan de Mejoramiento Aplicado",
+  "description": "Desarrollo del PMA correspondiente al proyecto de gestión de inventario \"Bodega\". El documento debe incluir análisis de requerimientos, diseño de la solución y plan de implementación.",
+  "image": "arroz-1747785500702.png",
+  "course": "Práctica Supervisada",
+  "status": true,
+  "comments": [],
+  "date": {
+    "$date": "2025-05-20T06:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-20T23:58:20.706Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T23:58:20.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682d172da423df119c2f39f6"
+  },
+  "title": "Desarrollo de API Empresarial",
+  "description": "Implementación de API RESTful para la empresa COPEREX. El sistema debe incorporar autenticación, gestión de recursos y documentación completa según los estándares acordados.",
+  "image": "arroz-1747785517482.png",
+  "course": "Práctica Supervisada",
+  "status": true,
+  "comments": [],
+  "date": {
+    "$date": "2025-05-20T06:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-20T23:58:37.486Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T23:58:37.486Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682d1780a423df119c2f39f8"
+  },
+  "title": "Implementación de Convertidor de Divisas",
+  "description": "Desarrollo de aplicación 'Currency-Converter' utilizando API externa para tasas de cambio en tiempo real. La aplicación debe incluir historial de conversiones y soporte para múltiples divisas.",
+  "image": "arroz-1747785600596.png",
+  "course": "Taller de Desarrollo Web",
+  "status": true,
+  "comments": [
+    {
+      "name": "José Martínez",
+      "comment": "Excelente publicación, gracias por compartir el proceso de implementación. La información proporcionada ha sido de gran utilidad.",
+      "_id": {
+        "$oid": "682d1a7ada4dedfc3f7aa032"
+      },
+      "date": {
+        "$date": "2025-05-21T00:12:42.132Z"
+      }
+    }
+  ],
+  "date": {
+    "$date": "2025-05-20T06:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-21T00:00:00.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-21T00:12:42.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682d17a4a423df119c2f39fa"
+  },
+  "title": "Sistema de Gestión Académica",
+  "description": "Desarrollo de API para la administración eficiente de datos estudiantiles. El sistema debe permitir registro, consulta y actualización de información académica, con reportes personalizables y dashboard administrativo.",
+  "image": "arroz-1747785636345.png",
+  "course": "Práctica Supervisada",
+  "status": true,
+  "comments": [],
+  "date": {
+    "$date": "2025-05-20T06:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-21T00:00:36.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-21T00:00:36.348Z"
+  }
+}]
