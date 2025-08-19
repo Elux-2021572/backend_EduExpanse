@@ -1,17 +1,42 @@
 {
-  "name": "backend_blog",
+  "name": "pma-blog-aprendizaje-backend",
   "version": "1.0.0",
+  "description": "Backend API RESTful para el Blog de Aprendizaje - Plan de Mejoramiento Aplicado (PMA)",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "node --watch index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "type": "module",
-  "description": "",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "echo \"Linting not configured\" && exit 0",
+    "audit": "npm audit",
+    "audit:fix": "npm audit fix"
+  },
+  "keywords": [
+    "blog",
+    "api",
+    "rest",
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose",
+    "backend",
+    "pma",
+    "educativo"
+  ],
+  "author": {
+    "name": "Emilio Lux",
+    "email": "emiliojo.lux@gmail.com"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Elux-2021572/backend_EduExpanse.git"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
